@@ -5,6 +5,8 @@ class TabletsRunner{
    Tablets.printDetails();
    
    System.out.println("*********************************************");
+   
+ 
  
 String[] color1={"Blue","Green","Orange","Yellow","Purple","Brown","Gray","Red","Maroon","Violet","Charcol","Bronze","gold","Silver","Pink"};
  String[] chemical1={"acetic anhydride", "acetone", "diethyl ether"," benzyl chloride"," toluene"," hydrochloric acid"," Botulinum","Cyanide","Arsenic","Strychnine","Carbon Tetraklorida"};

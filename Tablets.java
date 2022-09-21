@@ -18,20 +18,6 @@ class Tablets
 	static void printDetails()
 	{
 		
-		System.out.println (chemical);
-		System.out.println (noOfCompanies);
-        System.out.println(countrySupply);
-		System.out.println (supplyCompanies);
-		System.out.println (productionInKarnataka);
-		System.out.println (contentOfChemicals);
-		System.out.println (typeOfMachineUsed);
-		System.out.println (weight);
-		System.out.println (effects);
-		System.out.println (guideLines);
-		System.out.println (noOfTablets);
-			
-    System.out.println(color);
-	
  
     if(color!=null)
 	{

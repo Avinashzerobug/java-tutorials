@@ -7,7 +7,8 @@ class PoliticianDataRunner{
    PoliticianData.PoliticianData1("Amit sha");
    PoliticianData.PoliticianData1("Rajnath singh");
    PoliticianData.PoliticianData1("Jai Shankar");
- 
+   PoliticianData.displayDetails();
+                
 }
 
 }

@@ -18,9 +18,9 @@ class FoodItemsData{
 	{	
            
 	   System.out.println("showing details");
-	   for(int i=0;i<=foods.length;i++);
+	   for(int i=0;i<foods.length;i++)
 	   {
-		   System.out.println("foods:"+foods[position]);	   		  
+		   System.out.println("foods:"+foods[i]);	   		  
 		
 	   }	   	   
      

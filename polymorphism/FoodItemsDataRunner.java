@@ -7,7 +7,7 @@ class FoodItemsDataRunner{
 	FoodItemsData.letseat("KFC");
 	FoodItemsData.letseat("Rolls");
 	FoodItemsData.letseat("cake");
-
+    FoodItemsData.displayDetails();
   
   
   

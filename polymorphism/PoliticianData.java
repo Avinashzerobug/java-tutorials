@@ -17,9 +17,9 @@ class PoliticianData{
 	{	
            
 	   System.out.println("showing details");
-	   for(int i=0;i<politicianName.length;i++);
+	   for(int i=0;i<politicianName.length;i++)
 	   {
-		   System.out.println("politicianName:"+politicianName[position]);	   		  
+		   System.out.println("politicianName:"+politicianName[i]);	   		  
 		
 	   }	   	   
      

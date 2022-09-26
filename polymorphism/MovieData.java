@@ -1,10 +1,9 @@
 class MovieData{
 
-   static int position=0; 
    static String[] movieName={null,null,null,null,null};
+   static int position=0; 
 
-
-   static void save(String watching)
+   static void movieData1(String watching)
    {
    
        System.out.println("movie start agide ");
@@ -18,9 +17,9 @@ class MovieData{
 	{	
            
 	   System.out.println("showing details");
-	   for(int i=0;i<movieName.length;i++)
+	   for(int i=0;i<movieName.length;i++);
 	   {
-		   System.out.println("movie name:"+movieName[i]); 	   		  
+		   System.out.println("movie name:"+movieName[position]);	   		  
 		
 	   }	   	   
      
